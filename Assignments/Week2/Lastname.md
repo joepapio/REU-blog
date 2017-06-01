@@ -1,14 +1,14 @@
 ---
 title: "TBD"
 author: "Firstname Lastname"
-topic: "week4"
+topic: "week2"
 layout: post
 root: ../../../
+tags: [forensics, statistics, assignments]
 ---
  
 ## Background:
 
-TBD
 
 
 ## Instructions:
