@@ -4,6 +4,7 @@ author: "Firstname Lastname"
 topic: "week1"
 layout: post
 root: ../../../
+tags: [forensics, statistics, assignments]
 ---
  
 ## Background:
@@ -15,8 +16,6 @@ Does what the guests on the show say surprise you? If you've taken courses in fo
 If you were being tried for a crime, would you have faith that the evidence would be weighed fairly and honestly? Based on their commentary, what forms of evidence do you think hold up to scrutiny, and which do not?
 
 Do you think the criminal justice system is living up to the idea of "innocent until **proven** guilty"?
-
-
 
 ## Instructions:
 Save a **copy** of this file, replacing "Lastname" and "Firstname" with your own and *leave the original unedited*.
