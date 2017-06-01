@@ -8,11 +8,14 @@ root: ../../../
  
 ## Background:
 
-As we start thinking about the statistics and science of forensics this summer, consider [this podcast](http://www.sciencefriday.com/segments/theres-less-science-in-forensic-science-than-you-think/), from Science Friday a few weeks ago. 
+As we start thinking about the application of statistics in forensics this summer, consider [this podcast](http://www.sciencefriday.com/segments/theres-less-science-in-forensic-science-than-you-think/), from Science Friday a few weeks ago. Write a short response (maybe 2-3 paragraphs), responding to the podcast and the following questions:
 
-Does what the guests on the show say surprise you? If you were being tried for a crime, would you have faith that the evidence would be weighed fairly and honestly? Based on their commentary, what forms of evidence do you think hold up to scrutiny, and which do not?
+Does what the guests on the show say surprise you? If you've taken courses in forensics, do you agree with their assessments?
+
+If you were being tried for a crime, would you have faith that the evidence would be weighed fairly and honestly? Based on their commentary, what forms of evidence do you think hold up to scrutiny, and which do not?
 
 Do you think the criminal justice system is living up to the idea of "innocent until **proven** guilty"?
+
 
 
 ## Instructions:
