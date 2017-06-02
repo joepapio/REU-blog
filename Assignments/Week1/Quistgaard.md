@@ -1,6 +1,6 @@
 ---
 title: "Does this surprise you?"
-author: "Firstname Lastname"
+author: "Maddie Quistgaard"
 topic: "week1"
 layout: post
 root: ../../../
