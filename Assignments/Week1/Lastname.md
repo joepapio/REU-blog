@@ -1,25 +1,13 @@
 ---
-title: "Does this surprise you?"
-author: "Firstname Lastname"
+title: "Assignment 1: Blog Post"
+author: "Kahlil Sample"
 topic: "week1"
 layout: post
 root: ../../../
 tags: [forensics, statistics, assignments]
 ---
  
-## Background:
-
-As we start thinking about the application of statistics in forensics this summer, consider [this podcast](http://www.sciencefriday.com/segments/theres-less-science-in-forensic-science-than-you-think/), from Science Friday a few weeks ago. Write a short response (maybe 4-5 paragraphs), responding to the podcast and the following questions:
-
-Does what the guests on the show say surprise you? Why or why not? If you've taken courses in forensics, do you agree with their assessments? Summarize your position briefly. 
-
-If you were being tried for a crime, would you have faith that the evidence would be weighed fairly and honestly? Explain that belief. Based on their commentary, what forms of evidence do you think hold up to scrutiny, and which do not? Justify your responses.
-
-Do you think the criminal justice system is living up to the idea of "innocent until **proven** guilty"? Support your opinion with ideas or quotes from the podcast.
-
-## Instructions:
-Save a **copy** of this file, replacing "Lastname" and "Firstname" with your own and *leave the original unedited*.
-
-In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the background and the instructions sections and write your blog post!
-
-Once you are done, **create a pull request** to upload your changes to the original repository!
+ The information that is discsussed in the podcast by the numerous guests does not surprise me to any extent. The United States criminal justice system is very flawed and has been for quite an extensive time period. There have been multiple cases nationwide where innocent and indigent defendants have been found guilty due to the inability to provide skilled experts that can acquit their client. I agree with the assessments of the guests as it supports my original opinions of our criminal justice system. I initially formed my opinion based on the coursework that I have been involved in during my tenure at Albany State University. During some of these courses I was enlightened on the myths of criminal justice and forensic science. Many viewers of crime scene investigation related television shows allude that cases are solved rapidly and that is a completely false conclusion. Many times investigators run into obstacles that hinder the progression of solving a case. Laws in the criminal justice system and the retrieving of test results often slow down the process of placing a criminal behind bars.
+ Given a circumstance where I placed was on trial for a crime that I did not commit, I would not have 100% faith that the evidence would be weighed honestly and fairly. It appears that evidential groups that are analyzed through science based technniques hold up better in court as opposed to those disciplines that are not science based. Techniques that are not science based offer little to no validation on whether the evidence can be pinned to a suspect. For example, DNA analysis is a science based practice in the biology and chemistry fields and can applied forensically through theories and logic. Tool mark analysis is a technique that is not science based and can lack emperical studies. This uncertainty is the reasoning for my suspicion of the criminal justice system in handling my hypotheically committed crime.
+ Another reason for not having faith that the evidence would be weighed honestly and fairly is due to the possibility of unethical behavior inside the crime labs. I have recently taken an ethics course in forensic science, and we were assigned a project on pointing out all of the violations that a young woman committed while working in the crime lab. Annie Dookhan is a former chemist who worked in a crime lab and committed countless ethicical violations during her time working this occupation. Dookhan admitted to working alongside prosecutors to purposley convict defendants who were on trial for drug manufacturing, possession, and distribution. Dookhan would round the quantity of a specific drug to the point where the charge would be considered felonious. This one instance alone is not the only cirumstance in the United States where a defendant is being dealt with unfairly. This scenario contributions to my skepticism of how fair and ethically inclined our criminial justice system currently is. I may be targeted to simply help the prosectuion earn more money at the expense of my time. There are many reason for why I may not be treated fairly in the system ranging from ethnicity, creed, or the color of my skin. This dishonesty in crime labs disregards the cleaning up of scientific disciplines within the criminal justice and forensic science fields. 
+ Personally I do not believe that the system is upholding the "innocent until proven guilty" mantra. My reasoning for this is because many of those who are defending his or her name are indigent defendants and cannot afford an attorney on their own. Many appointed attorneys are straight out of law school and have not even begun to get their feet wet in terms of representing an individual in court.  It is more likely that an attorney who is not appointed to a defendant by the court will have more success on a case rather than an attorney who is appointed at random. In addition to this, an expert is needed in order for one to convince the court that the evidence from a particular lab should be questioned and retested if a defendant/attorney is unsure about the integrity of the lab employees. From the court's perspective, justification and the specificity of what is wrong is needed if funds are going to be allocated towards this issue. Essentially, an expert is mandatory in order to receive expert assistance from the court system. A defendant who is not wealthy faces an uphill battle from the beginning and is at an extreme disadvantage no matter how he or she tries to fight the case.
