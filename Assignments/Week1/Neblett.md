@@ -1,25 +1,16 @@
 ---
-title: "Does this surprise you?"
-author: "Firstname Lastname"
+title: "Scientific Analysis and Representation of Forensic Evidence"
+author: "Macy Neblett"
 topic: "week1"
 layout: post
 root: ../../../
 tags: [forensics, statistics, assignments]
 ---
  
-## Background:
+I was not really surprised at what the guests had to say. Although, I was somewhat surprised to hear that it wasn’t just some applications of forensic science that were flawed. In my Intro to Forensics class, we discussed the NIST report and the recommendation that should be applied to forensic science. It was then that I realized that forensic science was not as infallible as television made it seem. In my Forensic Professional Practice class, we were given an assignment in which we had to create a presentation about unethical or flawed evidence analysis practices. During my research, I realized that the problems were more widespread than I thought and they occurred much more recently than I would have initially assumed. For example, my presentation was on the falsifying of hair evidence by the FBI that the podcast mentioned. I was shocked that it happened so recently.
 
-As we start thinking about the application of statistics in forensics this summer, consider [this podcast](http://www.sciencefriday.com/segments/theres-less-science-in-forensic-science-than-you-think/), from Science Friday a few weeks ago. Write a short response (maybe 4-5 paragraphs), responding to the podcast and the following questions:
+From what I have learned in my forensics classes, I would like to believe that the evidence would be analyzed scientifically (or rather, without bias), however, humans do make mistakes, whether accidental or not. Which is why I agree with the guests of the podcast that there needs to be quality assurance measures in place to catch these mistakes. However, even if the evidence is properly analyzed, the interpretation of that evidence is what is important. How the evidence is presented, rather than what the evidence actually is, could determine the difference between a conviction or an acquittal. So, while I believe that proper scientific evaluation of evidence is important, it is also crucial that expert witnesses do not misrepresent the evidence in such a way that it favors one side over the other.
 
-Does what the guests on the show say surprise you? Why or why not? If you've taken courses in forensics, do you agree with their assessments? Summarize your position briefly. 
+Based on their commentary, I believe that DNA evidence, to a point, holds up under scrutiny. Like one of the guests said, DNA analysis has a scientific background that was later applied to forensic science. Other types of evidence, like fingerprints, bite marks, etc., have law enforcement backgrounds, meaning these types of evidence analysis methods were created in response to a law enforcement problem, rather than a strictly scientific one. 
 
-If you were being tried for a crime, would you have faith that the evidence would be weighed fairly and honestly? Explain that belief. Based on their commentary, what forms of evidence do you think hold up to scrutiny, and which do not? Justify your responses.
-
-Do you think the criminal justice system is living up to the idea of "innocent until **proven** guilty"? Support your opinion with ideas or quotes from the podcast.
-
-## Instructions:
-Save a **copy** of this file, replacing "Lastname" and "Firstname" with your own and *leave the original unedited*.
-
-In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the background and the instructions sections and write your blog post!
-
-Once you are done, **create a pull request** to upload your changes to the original repository!
+I believe that the criminal justice system has been moving towards “guilty until proven innocent”. Like the guests were saying, defendants, specifically indigent defendants, seemingly have no right to scientific review, meaning they do not have the right, basically, to review the evidence. Another point the guests made was that defendants “need an expert to explain why you need an expert”. This, I believe, ties into the “guilty until proven innocent” idea. It is almost as if the criminal justice system is telling a defendant that their expert is infallible and they should trust their analysis. This is the same justice system that is trying to convict them. Not only are the courts restricting the defense access to the evidence, but also a defense attorney’s budget restricts them as well. Defense attorneys have substantially less resources than the government funded prosecution. It is incredibly difficult for the defense to be able to afford an expert of their own.
