@@ -9,10 +9,10 @@ tags: [forensics, statistics, assignments]
  
 ## Background:
 
-James E. Kruse
-Writing assignment 1
-6/4/17
-CSAFE REU
+James E. Kruse -
+Writing assignment 1 -
+6/4/17 -
+CSAFE REU -
 Science Friday Response
 
    First and foremost, I find it concerning that there is this much bias in the forensic science field. Prior to this point, I was aware that there were problems with funding and some bias that had to be corrected, but had never believed that it was as bad as this recording makes it out to be. The basis of the innocent until proven guilty foundation in law enforcement is extremely important and if forensics, which is a powerful tool in helping to determine this question, is being used in a biased way, it can undermine the entire field. This combined with both a lack of funding and the disbanding of the National Commission of Forensic Science makes one stop and look at the direction that we will be heading in the coming years in both research and practical application. 
