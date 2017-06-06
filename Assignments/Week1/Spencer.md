@@ -1,25 +1,18 @@
 ---
-title: "Does this surprise you?"
-author: "Firstname Lastname"
+title: "Misconceptions of Forensic Science"
+author: "Francesca Spencer"
 topic: "week1"
 layout: post
 root: ../../../
 tags: [forensics, statistics, assignments]
 ---
  
-## Background:
+## Week 1 Blog Post:
 
-As we start thinking about the application of statistics in forensics this summer, consider [this podcast](http://www.sciencefriday.com/segments/theres-less-science-in-forensic-science-than-you-think/), from Science Friday a few weeks ago. Write a short response (maybe 4-5 paragraphs), responding to the podcast and the following questions:
+The first thing about this podcast that stood out to me that I liked was how it directly addressed the "forensic science" that occurs in TV shows and movies and how it's really not like that in the real world in many ways. Because of the widespread popularity of these types of shows and movies, people get the wrong idea of what forensic science is and the accuracy of it all. But I like that this podcast discusses that to aim to make people more aware of these misconceptions.
 
-Does what the guests on the show say surprise you? Why or why not? If you've taken courses in forensics, do you agree with their assessments? Summarize your position briefly. 
+When the guests at the beginning of the podcast talked about how forensic science really isn't as fast as is seen in TV shows, I wasn't surprised at all. I understand the science in TV shows have to move fast in order to keep the show interesting, but it's not really like that in real life, that it takes a lot of time to even get test results back. Something that did surprise me was when they said that tests of the reliability of the forensic testing we rely on or know best haven't really been conducted on a large scale. You would think that something that could make (prove innocence) or break (prove guilt) someone's life would aim to be almost 100% reliable, valid, and accurate.
 
-If you were being tried for a crime, would you have faith that the evidence would be weighed fairly and honestly? Explain that belief. Based on their commentary, what forms of evidence do you think hold up to scrutiny, and which do not? Justify your responses.
+After listening to the podcast, I don't think the evidence would be completely weighed fairly and honestly if I were being tried for a crime. When one of the guests talked about the case with the multiple kidnappings and murders and the fiber samples involved, I think the jury would just look at the basic evidence involved or found in the crime and not understand that you actually can and should question the science, rather than just accept it as it has been presented to you. From what the guests describe, evidence such as bite marks and hair samples and fiber evidence, among others, aren't as reliable as we think they are, but latent fingerprint analysis holds up to scrutiny because it has been used in forensic evidence for a long, long time and established as quite reliable, according to the podcast guests.
 
-Do you think the criminal justice system is living up to the idea of "innocent until **proven** guilty"? Support your opinion with ideas or quotes from the podcast.
-
-## Instructions:
-Save a **copy** of this file, replacing "Lastname" and "Firstname" with your own and *leave the original unedited*.
-
-In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the background and the instructions sections and write your blog post!
-
-Once you are done, **create a pull request** to upload your changes to the original repository!
+I don't think the criminal justice system is **completely** living up to the idea of "innocent until proven guilty" because, as I described in the previous paragraph and as further described in the podcast, the jury sees evidence that may or may not be accurate but it appears to be incriminating so they assume guilt as well, rather than looking for further scientific evidence to actually prove guilt. One of the guests pointed out that although we have rights to an attorney, etc, we don't have the same rights to scientific review. We could ask for further testing on crime scene evidence, but that may require one's own money to go towards this testing, money that many people may not have.
