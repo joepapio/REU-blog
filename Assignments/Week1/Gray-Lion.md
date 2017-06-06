@@ -1,27 +1,14 @@
 ---
-title: "Does this surprise you?"
-author: "Firstname Lastname"
+title: "Junk Science Does Hurt"
+author: "Marion GrayLion"
 topic: "week1"
 layout: post
 root: ../../../
 tags: [forensics, statistics, assignments]
 ---
  
-## Background:
-
-As we start thinking about the application of statistics in forensics this summer, consider [this podcast](http://www.sciencefriday.com/segments/theres-less-science-in-forensic-science-than-you-think/), from Science Friday a few weeks ago. Write a short response (maybe 4-5 paragraphs), responding to the podcast and the following questions:
-
-Does what the guests on the show say surprise you? Why or why not? If you've taken courses in forensics, do you agree with their assessments? Summarize your position briefly. 
-
-If you were being tried for a crime, would you have faith that the evidence would be weighed fairly and honestly? Explain that belief. Based on their commentary, what forms of evidence do you think hold up to scrutiny, and which do not? Justify your responses.
-
-Do you think the criminal justice system is living up to the idea of "innocent until **proven** guilty"? Support your opinion with ideas or quotes from the podcast.
-
-## Instructions:
-Save a **copy** of this file, replacing "Lastname" and "Firstname" with your own and *leave the original unedited*.
-
-In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the background and the instructions sections and write your blog post!
-
-Once you are done, **create a pull request** to upload your changes to the original repository!
-
+     In response to the podcast, what the speakers say on the show does not surprise me due to previous exposure to this subject via coursework in forensic studies. Through one class in particular, Forensic Professional Practice, the professor assigned a research project in which the students were required to find examples of crime lab scandals. Through our presentations, some of the circumstances involving large amounts of analytical error and lack of professional ethics were discovered for labs located in Massachusetts, Michigan, Minnesota, and North Carolina. Dr. Bell brought up valid points about hair samples being misrepresented in many court trials and bite marks are subjective evidence. However, I disagree with Dr. Bell’s declaration that these cannot be used for positive identification. There have been exceptions to this where the evidence sample presented had its own “uniqueness” (for example from a repeat offender) in which there was a reference base for positive identification.
+     There have been cases where innocent people have been sentenced to prison and / or the death penalty due to “bad science”. The case of Cameron Todd Willingham is an example of this. The fire investigator did not exhibit the analytical protocol of an “expert” and the prosecutor based the case on Willingham’s prior behavior to depict the suspect’s tendency towards violence and destructive tendencies. The prosecutor expedited the trial for a speedy conviction. It was after Willingham’s execution that the discrepancies in the analysis by the original fire investigator and the unethical behavior of the prosecutor was discovered. Situations similar to this have happened in other cases due to the evidence not being tested or presented accurately therefore not being weighed fairly and honestly. So, no I do not have a large amount of faith that the evidence would be presented fairly if I were on trial based on the speakers’ commentary. Hair samples and bite marks would not “hold up to the scrutiny” based on the statements above.
+     From the statements by the speakers on the podcast, the criminal justice system is not living up to the idea of “innocent until proven guilty” because the “junk science”. Both commentators spoke of how there is a lack of empirical studies / research into the problems associated with maintaining forensic evidence integrity due to the lack of funding. They maintained that people should step forward and call for experts to question the experts if there is a question about quality of the analysis. It was pointed out that many cases end up in “plea-bargaining” so they do not go to trial. Therefore, the discrepancies in the evidence handling probably does not get noticed as much as it should. A wealthier suspect would be in a better position than an indigent suspect to have their lawyer show justification on why another expert witness would need to be called in to refute the evidence presented by other “expert witness”.
+      Both speakers also commented on that there should be “overseers” to instill a system of checks and balances to make sure information remains honest and true. It was reported that this was the responsibility of the National Commission on Forensic Science before it was disbanded. It is interesting to note that Dr. Bell kept emphasizing accuracy and honesty need to be maintained in the handling and analysis of forensic evidence. However, it has been found that the text she has authored, Forensic Chemistry (2nd edition) has several errors.
 
