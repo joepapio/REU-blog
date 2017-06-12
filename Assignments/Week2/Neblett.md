@@ -1,6 +1,6 @@
 ---
-title: "TBD"
-subtitle: "Firstname Lastname"
+title: "CSAFE All Hands Meeting Session Reports"
+subtitle: "Macy Neblett"
 date: "2017-06-13 12:00:00 CDT"
 topic: "week2"
 layout: post
@@ -8,52 +8,14 @@ root: ../../../
 tags: [forensics, statistics, assignments]
 ---
  
-## Background:
+## 1pm Session: Fingerprints
 
-During the 8:30am, 10:00am, and 11:00am, sessions pay close attention to the 5-10 minute project reports. Whichever ones most interest you should correspond to the afternoon sessions at 1:00pm and 3:15pm. Have your agenda with you so that you can take notes on which afternoon sessions you want to attend. Decide during lunch and the breaks in between sessions how to split yourselves up into the groups so that **no more** than 3 of you are in any 1 group in the 1:00pm session, and **no more** than 4 of you are in any 1 group in the 3:15pm session. You can choose who attends which session however you want. 
+We first discussed how fingerprints are regarded as sure things (i.e., not from a basis of doubt) and that fingerprints are the number one method of identification used worldwide. Fingerprints are also a more efficient method of identification, whether they are used for suspect linking or biometrics. We discussed that the fingerprints generally found at crime scenes are small/fragmented and that there is little data on the frequency of these prints at crime scenes. We discussed if other forms of identification could be used, like with biometrics, a retina scan is unique to the individual. However, fingerprints are more commonly left at crime scenes than retinas. We then discussed if quality metrics could be derived, which led to the discussion of terminology (quality vs. clarity). The discussion then moved to factors of difficulty/complexity; where difficulty is about the examiner and complexity is about the print. Some factors of difficulty included time of examination and how many times did the examiner “put down” the print and come back to it later. Factors of complexity included: features (Galton’s details, pores, edges, etc.), clarity, and quantity. We then discussed the fact that there is currently no standard for how many minutiae should be found before calling something a match, and there are no standards for which types of features to use. Whether you use Galton’s details, pores, scars, creases, etc. or not is depended upon the agency/lab. Finally, we discussed that one should continuously review the updates on literature to avoid testing what has already been established. One of the projects that we did not discuss, but I thought was interesting from the five-minute presentation, was the presentation on standardizing testimony and reporting language and quantifying verbal scales. I think our break-out session was testimony to this fact, because two presenters spent nearly the entire session defining what they meant by certain words. For example, one examiner used the word quality, while the other used the word clarity. Therefore, I think it would be invaluable to standardize reporting language, that way all examiners are on the same page. 
 
-In the afternoon sessions you choose to visit, play close attention and take good notes! This blog assignment should be treated like a "report back" to your colleagues who aren't able to attend the others. You have to report the information as accurately and completely as you are able to.
+## 3:15pm Session: Shoeprints
 
-Some questions to consider for **each** of the afternoon sessions:
+We first discussed that test impressions of different shoes soles were taken and the accidentals (tears, nicks, cuts, etc.) are marked by hand, thus creating a database of accidentals. Next, assuming dependence, the statistical probability of accidentals occurring in a given location is calculated. Further research that was proposed was determining how accidentals wear over time (do they wear off, stay, etc.?) and the variations in test impressions and accidental markings. A test proposed was that over the course of a year, a certain number of people would wear the same shoe type, and the wear and accidentals would be tracked through measurements and impressions. We also discussed that participants should use a pediatric foot map prior to the test to see if a person’s “foot map” affected wear patterns and how. I learned during this session that accidentals will behave the same across all patterns of shoe soles of the same material. I think it would be interesting to see if this study could also do an analysis to determine if the wearer is wearing the correct shoe sized based on impressions left at a crime scene. Some limitations that we discussed were that larger datasets need to be collected and that during the study, it is imperative to have a sample that represents the population, though as we discussed, this may be nearly impossible.
 
-1. What forensic methods are discussed?
-2. What statistical methods are discussed?
-3. If you were a full-time researcher with CSAFE, which one of the projects presented in the group would you most like to work on? Why?
-4. What future work is discussed? What holes are the projects trying to fill?
-5. What future work could *you* propose to the group that would also be of interest? 
-6. What was the coolest or most intriguing thing you learned in the session?
+## Poster Session: A Probabilistic Model for Shoeprint Accidentals
 
-You are not restricted to only answering to these questions, but please do these as a minimum. Again, think of this as a report back to your collegues. **You** have to teach them what you learned! 
-
-Additionally, please report back on 1 poster presentation. Tell us:
-
-- Who you talked to
-- The institution they're with
-- Their research question
-- One result they report on
-- At least one question you asked the poster presenter
-
-### Bonus Challenge:
-
-Take a picture with the poster presenter and put it in your blog submission. *Hint: How do you insert a photo in Markdown?*
-
-## 1pm Session: Session Name Here
-
-Your "report" goes here. 
-
-## 3:15pm Session: Session Name Here
-
-Your "report" goes here. 
-
-## Poster Session: Poster Title Here
-
-Your "report" goes here.
-
-## Instructions (Read carefully, please!!):
-Save a **copy** of this file, replacing "Lastname" in the filename with your own and **leave the original unedited**.
-
-In **your copy**, replace the `title:` and `subtitle:` fields in the YAML above (put your name in the `subtitle` field), while leaving the remaining fields intact. Remove the background and the instructions sections and write your blog post! 
-
-Once you are done, **create a pull request** to upload your changes to the original repository!
-
-**Note**: The date above is the due date and time. Don't edit this field! 
+During the poster presentation, I talked to Neil Spencer from Carnegie Mellon. The purpose of his research was to develop “a probabilistic model for the locations of accidentals on the sole of a shoe.”  He reported that this model works comparably with the current model being used and he is working towards surpassing the current model through the use of alternative kernels. I asked him if there were other forensic applications that this model could be applied to. He told me that this model would work easily with fingerprints, however, there is no public database.
