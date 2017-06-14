@@ -35,4 +35,3 @@ This was a topic many of the researchers were passionate about. There was a lot 
 ## Poster Session: A Shoeprint Comparison Method
 
 I met with Dr. Sarena Wiesner with the Israeli police. She and her undergraduate student were doing a project on developing a statistical method to compare shoeprints with the University of Jerusalem. A question I asked was, “What if the scanned print of the shoe is so worn, it is barely distinguishable to the point where you may not even be able to tell what brand of shoe it could be.” Her answer to this was essentially that they’re still in the process of getting all different types of shoes and evaluating various prints.  The results they concluded were basically more work still needs to be done before they can make any conclusions based off of what they currently have.
-
