@@ -72,4 +72,7 @@ Delete this instructions section in your document, fix the errors in the documen
 
 ![](knit.png)
 
+### Remember!
+
+Sam and Joe will reject your pull request if it does not comport with the instructions above.
 
